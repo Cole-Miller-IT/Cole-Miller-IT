@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Cole-Miller-IT
+- 👋 Hi, I’m Miller
 - 👀 I’m interested in programming, automation, electronics, DIY Projects, and software/game design.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cole.miller.it@gmail.com
 
 <!---
